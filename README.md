@@ -1,51 +1,28 @@
-# version-3
+# Galvanize Dinosaurs - Apply
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+## Instructions
 
-## Prerequisites
+1. Refactor the provided site so that it uses your chosen front end framework.
 
-You will need the following things properly installed on your computer.
+2. Key functionality that you need to replicate includes:
+  - Getting data from an API with fetch
+  - Rendering that data
+  - Binding data from an input to an element on the page
+  - Toggling the preview on a click event
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+3. Your app must be broken down into components for the:
+  - header
+  - job details
+  - input form
+  - preview
+  - footer
 
-## Installation
+## Testing
 
-* `git clone <repository-url>` this repository
-* `cd version-3`
-* `npm install`
+1. Run `npm install`.
+2. Host your app locally on port `8080`.
+3. Navigate to this folder and run `npm test`.
 
-## Running / Development
+#### Deployed Link
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+#### Framework of choice
