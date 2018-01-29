@@ -23,6 +23,11 @@
 2. Host your app locally on port `8080`.
 3. Navigate to this folder and run `npm test`.
 
+#### Passing Tests
+![passing tests](tests.png)
+
 #### Deployed Link
+https://dino-applications.firebaseapp.com
 
 #### Framework of choice
+Ember
